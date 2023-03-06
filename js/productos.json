@@ -1,0 +1,152 @@
+[
+    {
+        "id": "Lechuga",
+        "titulo": "Lechuga x KG",
+        "imagen": "./img/verduras/01.jpg",
+        "categoria": {
+            "nombre": "verduras",
+            "id": "verduras"
+        },
+        "precio": 860
+    },
+    {
+        "id": "Pimiento Amarillo",
+        "titulo": "Pimiento A. x KG",
+        "imagen": "./img/verduras/02.jpg",
+        "categoria": {
+            "nombre": "Verduras",
+            "id": "verduras"
+        },
+        "precio": 620
+    },
+    {
+        "id": "Pimiento Rojo",
+        "titulo": "Pimiento R. x KG",
+        "imagen": "./img/verduras/03.jpg",
+        "categoria": {
+            "nombre": "Verduras",
+            "id": "verduras"
+        },
+        "precio": 870
+    },
+    {
+        "id": "Cebolla",
+        "titulo": "Cebolla x KG",
+        "imagen": "./img/verduras/04.jpg",
+        "categoria": {
+            "nombre": "Verduras",
+            "id": "verduras"
+        },
+        "precio": 450
+    },
+    {
+        "id": "Zapallito",
+        "titulo": "Zapallito x KG",
+        "imagen": "./img/verduras/05.jpg",
+        "categoria": {
+            "nombre": "Verduras",
+            "id": "verduras"
+        },
+        "precio": 380
+    },
+    {
+        "id": "Uva",
+        "titulo": "Uva x KG",
+        "imagen": "./img/frutas/01.jpg",
+        "categoria": {
+            "nombre": "Frutas",
+            "id": "frutas"
+        },
+        "precio": 590
+    },
+    {
+        "id": "Naranja",
+        "titulo": "Naranja x KG",
+        "imagen": "./img/frutas/02.jpg",
+        "categoria": {
+            "nombre": "Frutas",
+            "id": "frutas"
+        },
+        "precio": 360
+    },
+    {
+        "id": "Manzana",
+        "titulo": "Manzana x KG",
+        "imagen": "./img/frutas/03.jpg",
+        "categoria": {
+            "nombre": "Frutas",
+            "id": "frutas"
+        },
+        "precio": 570
+    },
+    {
+        "id": "Banana",
+        "titulo": "Banana x KG",
+        "imagen": "./img/frutas/04.jpg",
+        "categoria": {
+            "nombre": "Frutas",
+            "id": "frutas"
+        },
+        "precio": 290
+    },
+    {
+        "id": "Kiwi",
+        "titulo": "Kiwi x KG",
+        "imagen": "./img/frutas/05.jpg",
+        "categoria": {
+            "nombre": "Frutas",
+            "id": "frutas"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "Nueces",
+        "titulo": "Nuez x KG",
+        "imagen": "./img/frutos secos/01.jpg",
+        "categoria": {
+            "nombre": "Frutos Secos",
+            "id": "frutosSecos"
+        },
+        "precio": 3500
+    },
+    {
+        "id": "Pasas",
+        "titulo": "Pasas Negras x 250g",
+        "imagen": "./img/frutos secos/02.jpg",
+        "categoria": {
+            "nombre": "Frutos Secos",
+            "id": "frutosSecos"
+        },
+        "precio": 250
+    },
+    {
+        "id": "Almendra",
+        "titulo": "Almendras x 500g",
+        "imagen": "./img/frutos secos/03.jpg",
+        "categoria": {
+            "nombre": "Frutos Secos",
+            "id": "frutosSecos"
+        },
+        "precio": 1800
+    },
+    {
+        "id": "castañas de caju",
+        "titulo": "Castañas x 150g",
+        "imagen": "./img/frutos secos/04.jpg",
+        "categoria": {
+            "nombre": "Frutos Secos",
+            "id": "frutosSecos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "mani",
+        "titulo": "Mani pelado x KG",
+        "imagen": "./img/frutos secos/05.jpg",
+        "categoria": {
+            "nombre": "Frutos Secos",
+            "id": "frutosSecos"
+        },
+        "precio": 420
+    }
+]
